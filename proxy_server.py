@@ -1,10 +1,6 @@
 """
 SQLPsdem Proxy Server
 MySQL proxy that intercepts queries and prevents SQL injection
-Based on Section III-B: Proxy-Based Dynamic Execution Module
-
-Author: Implementation for Micro Project
-Date: November 2025
 """
 
 import socket
