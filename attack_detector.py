@@ -1,7 +1,7 @@
 """
 SQLPsdem Attack Detector
 Implements 5 detection rules covering 7 attack types (τ1-τ7)
-"""
+""" 
 
 import re
 from enum import Enum
