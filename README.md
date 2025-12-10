@@ -4,7 +4,7 @@ This project is a **minimal, educational prototype** for detecting and blocking 
 
 > "SQLPsdem: A Proxy-Based Mechanism Towards Detecting, Locating and Preventing Second-Order SQL Injections"
 
----
+--- 
 
 ## 📦 Features
 
