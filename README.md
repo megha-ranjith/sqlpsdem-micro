@@ -17,7 +17,7 @@ This project is a **minimal, educational prototype** for detecting and blocking 
 ---
 
 ## ⚙️ Technology Stack
-
+ 
 - **Python 3.x** (`attack_detector.py`, `proxy_server.py`)
 - **PHP 7+** (classic procedural; `register.php`, `login.php`, `change_password.php`)
 - **MySQL / MariaDB** (tested via XAMPP)
