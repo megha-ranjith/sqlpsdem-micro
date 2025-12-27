@@ -1,5 +1,5 @@
 """
-SQLPsdem Proxy Server
+SQLPsdem Proxy Serverm
 MySQL proxy that intercepts queries and prevents SQL injection
 """
 
